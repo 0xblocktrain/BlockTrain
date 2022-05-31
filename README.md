@@ -12,7 +12,7 @@ Learn everything in Web3 and Blockchain
 
 The content should be
 
-- in the form of a notion doc
+- in the form of a notion doc/medium article
 - easy to understand for a beginner
 - having visuals for better understanding
 - containing more links to resources for advanced users
