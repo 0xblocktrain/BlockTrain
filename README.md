@@ -5,6 +5,7 @@ Learn everything in Web3 and Blockchain
 ## Make a contribution
 
 - Find a topic from the [BlockTrain](https://blocktrain.info/create-content) website
+- Feel free to choose any other topic as well related to Blockchain which might not be on the list in the link above, just make sure to add the topic in a relevant section.
 - Make a notion doc similar to some others here: https://blocktrain.info/
 - Share the notion doc
 
